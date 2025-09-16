@@ -25,6 +25,7 @@ CultFlix é um protótipo de alta fidelidade para uma plataforma de streaming de
 ### 🛠️ Ferramentas e Tecnologias
 
 - **UI/UX Design e Prototipação:** **Figma**
-- **Modelagem do Sistema:** Ferramentas UML.
+- **Modelagem do Sistema:** Ferramentas BPMN/UML.
+- - **Organização e Gerenciamento de Equipe:** Trello, Poker Planning & Kanban.
 
 ---
